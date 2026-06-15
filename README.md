@@ -15,6 +15,11 @@ Dashboard focused on analyzing accounts receivable and financial performance acr
 - Regional and customer classification analysis
 - Dynamic filtering by date, region, and classification
 
+### 📊 Dashboard Preview
+
+![Accounts Receivable Dashboard](Dashboard_ControlDeCartera.png)
+
+This dashboard helps analyze financial behavior, customer segmentation, and receivable performance over time.
 ---
 
 ## 👟 2. StockX Sneaker Sales Analysis (Excel - Academic Project)
@@ -28,6 +33,11 @@ Sales analysis dashboard based on StockX sneaker market data, focused on pricing
 - Geographic analysis of highest price differentials
 - Dynamic filters by date, region, and model
 
+### 📊 Dashboard Preview
+
+![StockX Sales Dashboard](Dashboard_VentasStockX.png)
+
+This dashboard provides insights into sneaker market trends, pricing differences, and brand performance.
 ---
 
 ## 🛠️ Tools & Skills
